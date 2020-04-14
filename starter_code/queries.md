@@ -70,7 +70,7 @@ limit:
 
 filter:
 project:
-sort: {ipo: -1}
+sort: {"ipo.valuation_amount": -1}
 skip:
 limit:
 
